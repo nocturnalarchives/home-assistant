@@ -271,3 +271,4 @@ data:
   brightness_pct: 100
   entity_id: light.soffit_bulb_s1
   kelvin: 5000
+  
