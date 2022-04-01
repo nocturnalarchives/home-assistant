@@ -17,6 +17,7 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 
+
 duckdns:
   domain: atlasws.duckdns.org
   access_token: 3999174a-608d-40f1-a2fe-82ad5f53fc97
